@@ -1,4 +1,3 @@
-# Portfolio_Product_Sales_Forecast
 # Product Sales Forecasting Project
 
 This project forecasts product sales using a Random Forest Regression model.
